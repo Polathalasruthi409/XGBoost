@@ -1,4 +1,4 @@
-While making a flask app out of XGBoostClassifier model, to use pickle 2 things to be done in IDE:
+While making a flask app out of XGBoostClassifier model, to use pickle file, two things to be done in IDE:
 a. first install sklearn in your environment
 b. downgrade scikit-learn to version 0.22.1
 
