@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  background-size: cover;
+}
+
+fieldset {
+  width: 40%;
+  padding-left: 2rem;
+  text-shadow: 1px 1px 5px white;
+}
+
+.content {
+  padding-left: 10rem;
+  padding-top: 15rem;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 2rem;
+}
+
+legend {
+  font-size: 0.5rem;
+}

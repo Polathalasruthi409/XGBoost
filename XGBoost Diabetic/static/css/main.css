@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+.form {
+  padding-left: 35%;
+  padding-top: 5rem;
+}
+
+fieldset {
+  width: 40%;
+  border: 20px groove (internal value);
+  border-color: #4dff4d;
+}
+
+legend {
+  font-size: 2rem;
+  margin-left: 5rem;
+  color: #ff0066;
+  text-shadow: 1px 1px 3px black;
+}
+label {
+  font-size: 2rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  color: black;
+  font-weight: 800;
+}
+
+input {
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+h1 {
+  font-size: 5rem;
+  text-shadow: 2px 2px 5px black;
+}
+.btn {
+  margin-bottom: 1rem;
+  color: black;
+  font-weight: 550;
+}
+
+.form > label {
+  float: left;
+  clear: right;
+}
+
+.form > input {
+  float: right;
+}
+
+.info input {
+  margin-left: 28rem;
+}
+
+.info label {
+  position: absolute;
+}
